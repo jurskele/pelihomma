@@ -76,3 +76,21 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 MyProject/Intermediate/
+MyProject/Saved/Logs/MyProject_2.log
+MyProject/Saved/Logs/MyProject.log
+MyProject/Saved/Config/Windows/Scalability.ini
+MyProject/Saved/Config/Windows/PhysXVehicles.ini
+MyProject/Saved/Config/Windows/Paper2D.ini
+MyProject/Saved/Config/Windows/OculusVR.ini
+MyProject/Saved/Config/Windows/Lightmass.ini
+MyProject/Saved/Config/Windows/Input.ini
+MyProject/Saved/Config/Windows/Hardware.ini
+MyProject/Saved/Config/Windows/GameUserSettings.ini
+MyProject/Saved/Config/Windows/Game.ini
+MyProject/Saved/Config/Windows/Engine.ini
+MyProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+MyProject/Saved/Config/Windows/Editor.ini
+MyProject/Saved/Config/Windows/DeviceProfiles.ini
+MyProject/Saved/Config/Windows/Compat.ini
+MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-955AA2CC4F9F98365FE15AB700627237/CrashReportClient.ini
+MyProject/Saved/Config/CrashReportClient/UE4CC-Windows-3FE0D5EA443C1FA31B2B5B826A929EC0/CrashReportClient.ini
